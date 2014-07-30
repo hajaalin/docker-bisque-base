@@ -1,0 +1,57 @@
+Change a site variable
+N
+
+DO you want to reconfigure your servers(advanced)
+Y
+
+Edit servers in site.cfg 
+N
+
+Install uwsgi (application server and configs)
+Y
+
+Fetch external binary files from Bisque development server
+N
+
+Install ImarisConvert
+Y
+
+Install bioformats
+Y
+
+Install feature extractors (Feature Server)
+Y
+
+Install source code for feature extractors
+N
+
+A database URI
+sqlite:///bisque.db
+
+Enter toplevel matlab directory (under which is bin)
+/MATLAB
+
+Matlab not found: Try again
+N
+
+Configure modules for condor
+Y
+
+Advanced Bisque-Condor configuration
+N
+
+Enter a list (comma,seperated) of module platforms
+condor,command
+
+An temproary area that can be used to stage execution of modules
+/staging
+
+Try to setup modules
+N
+
+Enable mail delivery
+N
+
+Initialize Preferences 
+N
+
